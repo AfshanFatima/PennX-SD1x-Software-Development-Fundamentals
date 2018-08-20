@@ -1,6 +1,6 @@
 ## SD1x SOFTWARE DEVELOPMENT FUNDAMENTALS
 
-**week 1: Java Basics**
+**Week 1: Java Basics**
 
 **Conditionals and Loops**
 
