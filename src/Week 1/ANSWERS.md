@@ -1,11 +1,8 @@
-# Computer Science Essentials for Software Development
-
 ## SD1x SOFTWARE DEVELOPMENT FUNDAMENTALS
 
-#### week 1: Java Basics
+**week 1: Java Basics**
 
-##### Conditionals and Loops
-
+**Conditionals and Loops**
 
 **Problem 1**
 
@@ -23,7 +20,7 @@ boolean b = true && “what?”;  -correct
 
 boolean b = false || true;
 
-String s = true; correct
+String s = true;  -correct
 
 Answer Correct:
 Float or double hold decimal values. Char can have only single character.Integer cannot hold decimal values. String takes in a sequence of characters specified within double quotes. true is boolean when specified without quotes.
@@ -58,7 +55,7 @@ What will be printed to console by the above code snippet 1? If nothing is print
 Answer Correct:
 Blank or Nothing
 
-Explanation
+Explanation:
 result is larger than 0, thus enter the first if block; variable b's value is false, so do not enter the sub-block and do not print anything. 
     
 ```
@@ -77,7 +74,7 @@ How many times is “wow” printed to console when the above code snippet 2 loo
 
 Infinity 
 
-Explanation
+Explanation:
 It will not enter the for loop because i is not less than 0.
 
     
@@ -128,7 +125,7 @@ What number is printed to console when the above code snippet 4 is executed?
 Answer
 Correct: When i increments to 93, it will break the for loop. The last valid i to enter the for loop is i = 92. So j = 92+1=93. Then give the j's value to i. So i is 93 too.
 
-##### Classes
+**Classes**
 
 **Problem 1**
 
@@ -160,7 +157,7 @@ no return type -correct
 
 Ferrari
 
-Explanation
+Explanation:
 A constructor has no return type.
 
 
@@ -188,8 +185,7 @@ False -correct
 Answer
 Incorrect: this is a reserved keyword in java. It refers to the current instance of the class, which is an object rather than a primitive type.
 
-##### Data Collections
-
+**Data Collections**
 
 **Problem 1**
 
@@ -239,11 +235,10 @@ What is printed to console by the code snippet 1?
 
 93
 
-4 correct
+4 -correct
 
 5 
 
-Answer Correct:
 Explanation:
 Java uses 0 based index; the index is being added to the ArrayList. It returns the second element (with index 1) from the ArrayList.
 
