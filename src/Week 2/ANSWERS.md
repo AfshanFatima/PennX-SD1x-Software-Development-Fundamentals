@@ -1,7 +1,6 @@
-#### week 2: Testing and Debugging
+### Week 2: Testing and Debugging
 
-
-##### Unit Testing
+### Unit Testing
 
 **Problem 1a**
 
@@ -17,7 +16,6 @@ Tells if the software is compliant with user specification.
 
 Makes development process more clear. -correct
 
-
 Explanation: 
 Regression test is functional rather than unit testing, but Junit can be used to write separate unit tests which eases the process. Junit helps point out cases where the code fails.
 
@@ -28,7 +26,6 @@ Writing unit tests for every method in a Java program ensures that the program w
 True
 
 False -correct
-
 
 Explanation:
 Regression test is functional rather than unit testing, but Junit can be used to write separate unit tests which eases the process. Junit helps point out cases where the code fails.
@@ -43,7 +40,7 @@ testDeposit
 
 testOwner1
 
-testOwner2 correct
+testOwner2 -correct
 
 testOwner3 
 
@@ -76,7 +73,7 @@ It is the prevailing trend in the software engineering industry.
 Explanation:
 Testing helps break down the code into components each satifying a condition including edge cases.
 
-##### Debugging
+### Debugging
 
 **Problem 1**
 
@@ -125,6 +122,7 @@ Match the definition of the following terminologies:
 (c) A method is about to be invoked, and you want to debug into the code of that method, so the next step is to go into that method and continue debugging step-by-step.
 
 Answer Correct:
+
 1 step over:
    b or (b) or B or (B)
    
@@ -145,7 +143,7 @@ Console
 
 Error Log
 
-Display correct
+Display -correct
 
 Tasks
 
