@@ -1,6 +1,6 @@
-#### Week 4 : Polymorphism
+### Week 4 : Polymorphism
 
-##### Overloading
+### Overloading
 
 **Problem 1**
 
@@ -12,14 +12,14 @@ System.out.println() is heavily overloaded in Java. correct
 
 You can not overload constructor.
 
-An overloaded method can call another method with the same method name but different arguments. correct
+An overloaded method can call another method with the same method name but different arguments. -correct
 
 
 Explanation:
 The signiture of the method does not include the return type; System.out.println() can take int, string, and other data types. So it is heavily overloaded in java.
         
 
-##### Overriding
+### Overriding
 
 ![Code Snippet](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/1753c66acdb5065db328be587cded346/asset-v1:PennX+SD1x+2T2017+type@asset+block/Quiz4.2Problem2.png)
 
@@ -134,7 +134,7 @@ Answer Correct: Simba 100 Yes or Simba 100 YES or Simba 100 yes
 Explanation:
 The last constructor of lion4 is called. super(name, power) will call the last constructor of its super class, which assign a value to the name attribute and a value to the power attribute. "Here comes the King!!!" will be printed for the same reason.
 
-##### Abstract classes and interfaces
+### Abstract classes and interfaces
 
 **Problem 1**
 
