@@ -1,9 +1,8 @@
-#### Week 3 : Collections and Object Oriented Design
+### Week 3 : Collections and Object Oriented Design
 
+### Variable length arrays - ArrayLists
 
-##### Variable length arrays - ArrayLists
-
-Problem 1
+**Problem 1**
 
 Which one of the following statements is wrong?
 ArrayList is basically an Array that can resize itself.
@@ -18,7 +17,7 @@ Each row in a 2-dimensional Array doesn’t have to be the same length.
 Explanantion: To represent a chess board, it is better to use a 2d array.
 
 
-Problem 2
+**Problem 2**
 
 Select all the lines of code that would NOT compile from the following list. (Assume all necessary packages are imported. There might be more than one answer.)
 
@@ -38,7 +37,7 @@ Java syntaxes
 
 ![Code Snippet](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/a951233c79bad3c9644478b5b69c7cb2/asset-v1:PennX+SD1x+2T2017+type@asset+block/Quiz3.1Problem3.png)
 
-Problem 3
+**Problem 3**
 
 Which lines in the code snippet 1 would CAUSE ConcurrentModificationException?
 
@@ -57,7 +56,7 @@ Which lines in the code snippet 1 would CAUSE ConcurrentModificationException?
 Explanation:
 Java does not allow you to loop an ArrayList and modify it at the same time. If you do this, it will throw you the ConcurrentModificationException.
 
-##### Access modifiers
+### Access modifiers
 
 ![Code Snippet](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/f082c547611ac77a8149c8c114e9b4e2/asset-v1:PennX+SD1x+2T2017+type@asset+block/Quiz_3.2.png)
 
