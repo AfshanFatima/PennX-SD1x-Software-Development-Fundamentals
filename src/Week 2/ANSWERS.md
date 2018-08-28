@@ -91,36 +91,6 @@ Match the definition of the following terminologies:
 
 (c) A method is about to be invoked, and you want to debug into the code of that method, so the next step is to go into that method and continue debugging step-by-step.
 
-Correct Answer:
-
-1 step over:
- b or (b) or B or (B)
-
-2 step into:
-   c or (c) or C or ©
-
-3: step return
-  a or (a) or A or (A)
-
-Explanation:
-Step over is for the method about to be invoked. Step return is jump out from the method and let it return as one step. Step into is to jump into the method to debug step by step.
-
-**Problem 1**
-
-Match the definition of the following terminologies: 
-
-1 step over,
-
-2 step into,
-
-3: step return
-
-(a) You're done debugging this method step-by-step, and you just want the debugger to run the entire method until it returns as one entire step.
-
-(b) A method is about to be invoked, but you're not interested in debugging this particular invocation, so you want the debugger to execute that method completely as one entire step.
-
-(c) A method is about to be invoked, and you want to debug into the code of that method, so the next step is to go into that method and continue debugging step-by-step.
-
 Answer Correct:
 
 1 step over:
