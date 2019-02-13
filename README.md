@@ -1,6 +1,6 @@
 # [PennX: SD1x Software Development Fundamentals](https://www.edx.org/course/software-development-fundamentals-pennx-sd1x)
 
-#### [Penn Engineering Professional Certificate in CS Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
+#### [PennX Computer Science Essentials for Software Development](https://www.edx.org/professional-certificate/computer-science-essentials-software)
 
 This course is part of the Computer Science Essentials for Software Development Professional program.
 
